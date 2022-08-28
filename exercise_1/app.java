@@ -81,7 +81,7 @@ public class App
         hammer.weight = 6;
         hammer.rarity = "Hidden";
         hammer.name = "Meteor Hammer";
-        hammer.description = "The meteor hammer is a soft weapon and also a hidden weapon.";
+        hammer.description = "The Meteor Hammer is a soft weapon and also a hidden weapon.";
         hammer.weaponDescription();
 
         // Exercise 1
